@@ -48,8 +48,6 @@ Built as part of my LLM Mastery Sprint (Day 3).
 
 ![PersonaGPT Screenshot](https://github.com/user-attachments/assets/1179d14e-7093-4fa6-aa6f-3d463b018e63)
 
-_(Note: Add your screenshot image file as `screenshot.png` inside repo.)_
-
 ---
 
 ## ⚙️ Setup Instructions
