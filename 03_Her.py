@@ -17,7 +17,7 @@ load_dotenv()
 st.title("Baat karo varna maarungi")
 
 # pdf path
-PDF_PATH = "converted_text.pdf"
+PDF_PATH = "C:\Users\omsin\OneDrive\Desktop\LLM Projects\03_Her\converted_text.pdf"
 
 @st.cache_resource
 
